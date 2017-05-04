@@ -1,3 +1,0 @@
-git push ==> pushes our local commits to the remote repository
-
-git checkout -b branch_name ==> creates a new branch
